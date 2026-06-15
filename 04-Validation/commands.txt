@@ -1,0 +1,5 @@
+ftp <target-ip>
+
+ls -a
+
+smbclient -L //10.129.164.145 -N

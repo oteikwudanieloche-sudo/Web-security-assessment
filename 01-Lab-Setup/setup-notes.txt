@@ -1,0 +1,7 @@
+1. Configured isolated lab environment using VirtualBox
+2. Imported Kali Linux attacker machine
+3. Imported Metasploitable2 vulnerable target
+4. Configured Bridged adapter/Internal networking
+5. Verified IP addressing on both systems
+6. Tested connectivity using ping
+7. Confirmed attacker-to-target communication

@@ -1,0 +1,13 @@
+Open Ports Identified:
+- 21/tcp (FTP)
+- 22/tcp (SSH)
+- 80/tcp (HTTP)
+- 139/tcp (NetBIOS)
+- 445/tcp (SMB)
+- 3306/tcp (MySQL)
+
+Observations:
+- Multiple legacy services detected
+- HTTP service accessible
+- SMB services exposed
+- Several services appear outdated

@@ -1,0 +1,13 @@
+Finding: Anonymous FTP Access
+
+Affected Service:
+FTP (Port 21)
+
+Evidence:
+Successfully authenticated using anonymous credentials.
+
+Security Impact:
+Unauthorized users may access publicly exposed files.
+
+Recommendation:
+Disable anonymous authentication and enforce user authentication.
